@@ -1,11 +1,8 @@
 import argparse
-from cgi import print_environ
-import csv
 import itertools
 import os
 import math
 import matplotlib.pyplot as plt
-import multiprocessing
 import numpy as np
 from scipy.stats import truncnorm
 from scipy.stats import pearsonr
